@@ -1,15 +1,3 @@
-!--
-PERSONALIZE SEU PERFIL
-1. Perfil configurado para https://github.com/Carloznnz.
-2. Os ícones são exemplos: mantenha apenas as tecnologias que você utiliza.
-   Lista de ícones: https://github.com/tandpfun/skill-icons#icons-list
-3. Para exibir este README no perfil, coloque-o na raiz de um repositório
-   público com o mesmo nome do seu usuário no GitHub.
-
-Cartões: https://github.com/stats-organization/github-stats-extended
-Os cartões dependem de um serviço externo e mostram dados do usuário informado.
--->
-
 # 👨‍💻 Carlos Nunes
 
 **`Supervisor de TI`**
