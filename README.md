@@ -13,12 +13,6 @@ Me chamo **Carlos Nunes** e atuo como **Supervisor de TI**, com foco em infraest
   <a href="https://github.com/Carloznnz?tab=repositories">
     <img alt="Meus projetos" title="Conheça meus projetos" src="https://img.shields.io/badge/Meus_projetos-282A36?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Carloznnz?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas no GitHub" title="Estrelas no GitHub" src="https://img.shields.io/github/stars/Carloznnz?style=for-the-badge&logo=github&logoColor=white&label=Estrelas&color=55960C" />
-  </a>
-  <a href="https://github.com/Carloznnz?tab=followers">
-    <img alt="Seguidores no GitHub" title="Me acompanhe no GitHub" src="https://img.shields.io/github/followers/Carloznnz?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=236AD3" />
-  </a>
 </p>
 <br>
 ### Principais tecnologias
