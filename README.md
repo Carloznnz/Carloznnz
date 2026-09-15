@@ -20,9 +20,7 @@ Me chamo **Carlos Nunes** e atuo como **Supervisor de TI**, com foco em infraest
     <img alt="Seguidores no GitHub" title="Me acompanhe no GitHub" src="https://img.shields.io/github/followers/Carloznnz?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=236AD3" />
   </a>
 </p>
-
 <br>
-
 ### Principais tecnologias
 
 <p>
