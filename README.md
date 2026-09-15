@@ -21,23 +21,12 @@ Me chamo **Carlos Nunes** e atuo como **Supervisor de TI**, com foco em infraest
   </a>
 </p>
 
----
+<br>
 
-### 🤖 Linguagens e Tecnologias
+### Principais tecnologias
 
-<!-- Seleção baseada no código, package.json, requirements.txt e schemas dos projetos locais. -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,sqlite,prisma,vite&theme=dark&perline=8" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, FastAPI, PostgreSQL, SQLite, Prisma e Vite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,sqlite&theme=dark&perline=8" height="40" alt="Python, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL e SQLite" />
 </p>
 
-- **Linguagens:** Python, JavaScript, TypeScript e SQL; HTML e CSS para interfaces web.
-- **Frontend:** React, Next.js e Tailwind CSS, com Vite nos projetos React.
-- **Backend:** Node.js, Express, Fastify e FastAPI.
-- **Bancos de dados:** PostgreSQL e SQLite, com Prisma e SQLAlchemy.
-- **Dados e automação:** pandas e Streamlit.
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Carloznnz&show_icons=true&theme=tokyonight&locale=pt-br&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=BF91F3&border_color=8B949E" alt="Estatísticas do meu GitHub" />
-</p>
+Python · JavaScript · TypeScript · React · Node.js · FastAPI · PostgreSQL · SQLite
